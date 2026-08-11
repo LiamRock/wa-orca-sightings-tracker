@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 "api/.env" 
 api/.env
+"node_modules/" 
