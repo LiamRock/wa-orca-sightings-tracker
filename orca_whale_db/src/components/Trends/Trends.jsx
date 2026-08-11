@@ -18,7 +18,7 @@ const Trends = () => {
 
             setSightings(sorted);
             console.table(sorted);
-            setSummary(data.summary)
+            setSummary(data.summary);
         };
         fetchTrends();
     }, []);
