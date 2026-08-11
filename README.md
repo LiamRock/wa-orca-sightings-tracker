@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/fiko-dev/csci342-orca_whale_database">
+  <a href="https://github.com/LiamRock/wa-orca-sightings-tracker">
     <img src="./orca_whale_db/src/assets/orcaLogo.png" alt="Logo" width="80" height="80">
   </a>
 
